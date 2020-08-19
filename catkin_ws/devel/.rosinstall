@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rex/Github/Udacity/catkin_ws/devel/setup.sh
