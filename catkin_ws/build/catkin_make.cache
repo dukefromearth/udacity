@@ -1,2 +1,0 @@
-my_robot
--DCATKIN_DEVEL_PREFIX=/home/rex/Github/Udacity/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rex/Github/Udacity/catkin_ws/install -G Unix Makefiles
