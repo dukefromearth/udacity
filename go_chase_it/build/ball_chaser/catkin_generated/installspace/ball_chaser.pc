@@ -1,4 +1,4 @@
-prefix=/home/workspace/udacity/catkin_ws/install
+prefix=/home/workspace/udacity/go_chase_it/install
 
 Name: ball_chaser
 Description: Description of ball_chaser

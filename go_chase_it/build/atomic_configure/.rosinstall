@@ -1,2 +1,2 @@
 - setup-file:
-    local-name: /home/workspace/udacity/catkin_ws/devel/setup.sh
+    local-name: /home/workspace/udacity/go_chase_it/devel/setup.sh

@@ -1,6 +1,6 @@
 # CMake generated Testfile for 
-# Source directory: /home/workspace/udacity/catkin_ws/src
-# Build directory: /home/workspace/udacity/catkin_ws/build
+# Source directory: /home/workspace/udacity/go_chase_it/src
+# Build directory: /home/workspace/udacity/go_chase_it/build
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.
