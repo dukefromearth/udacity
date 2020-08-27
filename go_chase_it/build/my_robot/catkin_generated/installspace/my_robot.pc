@@ -1,4 +1,4 @@
-prefix=/home/workspace/udacity/catkin_ws/install
+prefix=/home/workspace/udacity/go_chase_it/install
 
 Name: my_robot
 Description: Description of my_robot
