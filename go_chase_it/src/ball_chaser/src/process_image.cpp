@@ -49,7 +49,7 @@ void process_image_callback(const sensor_msgs::Image img)
 
 	// Divide the image into thirds and request action based on this.
 	if(mid_white < img.step/3){
-		drive_robot(0.1, 0.1);
+		drive_robot(0.0, 0.1);
 	} else if (mid_white < 2 * img.step / 3) {
 		drive_robot(0.5, 0.0);
 	} else {
