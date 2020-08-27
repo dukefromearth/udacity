@@ -28,7 +28,7 @@ void process_image_callback(const sensor_msgs::Image img)
 	int max_white = -1;
 
 	for(int i = 0; i < img.height; i++){
-		for(int j = 0; j < img.step; j++){
+		for(int j = 0; j < img.step; j+=3){
 			int red = i * img.step + j;
 			if(img.data[red] == white_pixel && img.data[red+1] == white_pixel && img.data[red+2] == white_pixel){
 				// Compare current value to see the minimum and maximum
